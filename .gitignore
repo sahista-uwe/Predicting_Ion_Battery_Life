@@ -1,1 +1,4 @@
 venv/
+nasa_battery_dataset/data/*.csv
+nasa_battery_dataset/metadata.csv
+discharge_meta_with_rul.csv
