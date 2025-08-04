@@ -1,6 +1,6 @@
 # Predicting_Ion_Battery_Life
 
-# Battery Life Prediction - Advanced Feature Engineering
+
 
 ## Project Overview
 This project focuses on predicting the Remaining Useful Life (RUL) of lithium-ion batteries using advanced feature engineering techniques on battery cycle data. The data includes electrical, thermal, and impedance measurements recorded over thousands of charge-discharge cycles.
